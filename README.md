@@ -11,21 +11,24 @@ cd EosioBet
 httpserver
 ```
 ----
-open  
+open http://127.0.0.1:8080
+in your local browser
 
 ```
 http://127.0.0.1:8080
 ```
 ## Help
-if you cannot be granted,please install google extention scatter at first 
-
-https://chrome.google.com/webstore/detail/scatter/ammjpmhgckkpcamddpolhchgomcojkle
-
 
 how to install httpserver
 
 **npm install http-server -g**
  
+ 
+if you cannot be granted,please install google extention scatter at first 
+
+https://chrome.google.com/webstore/detail/scatter/ammjpmhgckkpcamddpolhchgomcojkle
+
+
 
 ----
 ## donate 
@@ -37,10 +40,12 @@ EOS:  **douyamvmv.tp**
 ## thanks to 
  
 coinbase.com
+
 huobi.pro
+
 okex.me
 
-# Index
+## Index
  EosioBet EosBet EosioDice Eosdice
  BTC，ETH，XRP，BCH，EOS，XLM，LTC，ADA，XMR，IOTA
 Endless 
